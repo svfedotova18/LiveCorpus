@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2019-12-03T17:02:33+03:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2019-12-03T17:07:00+03:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR MEDIA_URL="file:///D:/uwu/Учеба/вшэ/прогр и лингв данные/elan/aud.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./aud.wav"/>
         <MEDIA_DESCRIPTOR MEDIA_URL="file:///D:/uwu/Учеба/вшэ/прогр и лингв данные/elan/vid.mp4" MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./vid.mp4"/>
@@ -732,7 +732,7 @@
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER ANNOTATOR="svfedotova18" LINGUISTIC_TYPE_REF="default-lt" PARTICIPANT="@mam1989f" TIER_ID="@mam1989f-text">
+    <TIER ANNOTATOR="svfedotova18" LINGUISTIC_TYPE_REF="utterance" PARTICIPANT="@mam1989f" TIER_ID="@mam1989f-text">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a145" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
                 <ANNOTATION_VALUE>очень хорошо чувствую</ANNOTATION_VALUE>
