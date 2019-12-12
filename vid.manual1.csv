@@ -514,7 +514,7 @@
 514	/	/	PUNCT	_	_	_	_	_	@dap1994m-words#@dap1994m#320.343#320.558
 515	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	@dap1994m-words#@dap1994m#320.558#320.773
 516	просто	просто	PART	_	_	_	_	_	@dap1994m-words#@dap1994m#320.773#320.988
-517	сам...	сам	PRON	_	Animacy=Anim|Case=Dat|Gender=Fem|Number=Sing	_	_	_	@dap1994m-words#@dap1994m#320.988#321.203
+517	сам...	сам	ADV	_	Degree=Pos	_	_	_	@dap1994m-words#@dap1994m#320.988#321.203
 518	это	это	PART	_	_	_	_	_	@dap1994m-words#@dap1994m#321.203#321.418
 519	единственное	единственный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	@dap1994m-words#@dap1994m#321.418#321.633
 520	что	что	SCONJ	_	Case=Acc	_	_	_	@dap1994m-words#@dap1994m#321.633#321.848
